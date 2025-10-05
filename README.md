@@ -27,16 +27,7 @@ You can explore the same insights in a compact, user-friendly format.
 Here’s a glimpse of the Weather Dashboard:
 
 (Add your uploaded image link here — e.g. below)  
-![Weather Dashboard Preview](./WeatherDashboard.jpg)
-
----
-
-## 🎥 Demo Video
-
-Watch the complete demo of the dashboard here:
-
-(Add your video link here — e.g. below)  
-[Click to view the demo](./WeatherDashboard.mp4)
+![Weather Dashboard Preview](https://github.com/gautamikamble558/Weather-Dashboard/commit/b88bfb9f59c3192f2f1ff667ab33bc029267cc81)
 
 ---
 
